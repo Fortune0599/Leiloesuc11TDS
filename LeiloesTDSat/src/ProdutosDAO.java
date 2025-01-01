@@ -49,10 +49,7 @@ public class ProdutosDAO {
     public ArrayList<ProdutosDTO> listarProdutos(){
         
         return listagem;
-    }
-    
-    
-    
-        
-}
+    } 
+ } 
 
+    
